@@ -19,8 +19,8 @@ The Book Management System is a CLI-based application designed to help manage a 
 ## Usage
 
 1. Open a terminal or command prompt.
-2. Navigate to the directory where `book_management_system.py` is located.
-3. Run the script using the command: `python book_management_system.py`.
+2. Navigate to the directory where `bookManagementSystem.py` is located.
+3. Run the script using the command: `python bookManagementSystem.py`.
 
 ## File Structure
 
