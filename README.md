@@ -24,7 +24,7 @@ The Book Management System is a CLI-based application designed to help manage a 
 
 ## File Structure
 
-The system uses a text file to store the book information. The default file path is set to `"S:\Learn_WIth_OStad\Books.txt"`. If this path does not exist on your system, you may need to change it to a valid path. **IMPORTANT**
+The system uses a text file to store the book information. The default file path is set to `"LibraryManagement\Books.txt"`. If this path does not exist on your system, you may need to change it to a valid path. **IMPORTANT**
 
 ## Code Explanation
 
